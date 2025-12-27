@@ -1,4 +1,5 @@
-# 💫 About Me:⚡  I’m a B.Tech CSE graduate (2025) who has completed Full Stack Development, MERN stack, and DSA, but I’m currently in the exciting phase of exploring opportunities before stepping into my first professional role.
+# 💫 About Me:
+⚡  I’m a B.Tech CSE graduate (2025) who has completed Full Stack Development, MERN stack, and DSA, but I’m currently in the exciting phase of exploring opportunities before stepping into my first professional role.
 <br><br>👯 I’m looking to collaborate on innovative projects involving MERN stack, modern UI/UX design, and backend architecture.
 
 ## 🌐 Socials:
