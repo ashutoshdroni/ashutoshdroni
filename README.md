@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on refining my skills in Full Stack Development with a focus on building scalable, user-friendly web applications.<br><br>👯 I’m looking to collaborate on innovative projects involving MERN stack, modern UI/UX design, and backend architecture.<br><br>🌱 I’m currently learning advanced concepts in system design, cloud deployment, and performance optimization to become industry-ready.<br><br>⚡ Fun fact: I’m a B.Tech CSE graduate (2025) who has completed Full Stack Development, MERN stack, and DSA, but I’m currently in the exciting phase of exploring opportunities before stepping into my first professional role.
+🔭 I’m currently working on refining my skills in Full Stack Development with a focus on building scalable, user-friendly web applications.<br><br>👯 I’m looking to collaborate on innovative projects involving MERN stack, modern UI/UX design, and backend architecture.<br><br>🌱 I’m currently learning advanced concepts in system design, cloud deployment, and performance optimization to become industry-ready.<br><br>⚡  I’m a B.Tech CSE graduate (2025) who has completed Full Stack Development, MERN stack, and DSA, but I’m currently in the exciting phase of exploring opportunities before stepping into my first professional role.
 
 
 ## 🌐 Socials:
