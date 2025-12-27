@@ -1,6 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on refining my skills in Full Stack Development with a focus on building scalable, user-friendly web applications.<br><br>👯 I’m looking to collaborate on innovative projects involving MERN stack, modern UI/UX design, and backend architecture.<br><br>🌱 I’m currently learning advanced concepts in system design, cloud deployment, and performance optimization to become industry-ready.<br><br>⚡  I’m a B.Tech CSE graduate (2025) who has completed Full Stack Development, MERN stack, and DSA, but I’m currently in the exciting phase of exploring opportunities before stepping into my first professional role.
-
+# 💫 About Me:⚡  I’m a B.Tech CSE graduate (2025) who has completed Full Stack Development, MERN stack, and DSA, but I’m currently in the exciting phase of exploring opportunities before stepping into my first professional role.
+<br><br>👯 I’m looking to collaborate on innovative projects involving MERN stack, modern UI/UX design, and backend architecture.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashutosh_droni) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutosh-droni) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:droniashutosh2@gmail.com) 
